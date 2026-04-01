@@ -1,22 +1,22 @@
-# Privacy Policy for ScoreStore
+# Privacy Policy for TallyUp
 
 **Last updated: March 24, 2026**
 
 ## Overview
 
-ScoreStore is a score-keeping app for card games. Your privacy is important to us. This policy explains how we handle your information.
+TallyUp is a score-keeping app for card games. Your privacy is important to us. This policy explains how we handle your information.
 
 ## Data Collection
 
-ScoreStore does **not** collect, store, or transmit any personal data to external servers. All app data — including player names, game scores, and game history — is stored locally on your device only.
+TallyUp does **not** collect, store, or transmit any personal data to external servers. All app data — including player names, game scores, and game history — is stored locally on your device only.
 
 ## No Analytics or Tracking
 
-ScoreStore does not use any analytics, tracking, or advertising frameworks. We do not collect usage data, device information, or any other telemetry.
+TallyUp does not use any analytics, tracking, or advertising frameworks. We do not collect usage data, device information, or any other telemetry.
 
 ## No Third-Party Services
 
-ScoreStore does not integrate with any third-party services, APIs, or SDKs that collect user data.
+TallyUp does not integrate with any third-party services, APIs, or SDKs that collect user data.
 
 ## Data Storage
 
@@ -24,7 +24,7 @@ All data is stored locally on your device using Apple's built-in data storage fr
 
 ## Children's Privacy
 
-ScoreStore does not collect any personal information from anyone, including children under the age of 13.
+TallyUp does not collect any personal information from anyone, including children under the age of 13.
 
 ## Changes to This Policy
 
